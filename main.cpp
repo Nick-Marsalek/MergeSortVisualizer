@@ -9,7 +9,7 @@ const int WIDTH = 800;
 const int HEIGHT = 600;
 const int BAR_WIDTH = 10;
 const int NUM_BARS = WIDTH / BAR_WIDTH;
-const int DELAY = 100;
+const int DELAY = 50;
 
 // Enumeration for the different states of the program
 enum class State
