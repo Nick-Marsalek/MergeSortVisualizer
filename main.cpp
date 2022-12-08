@@ -191,6 +191,7 @@ int main()
 
             // Return to the menu screen once the sorting is complete
             state = State::Menu;
+            window.close();
         }
     }
 
